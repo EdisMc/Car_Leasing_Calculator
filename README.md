@@ -1,7 +1,8 @@
-Car Leasing Calculator
+# Car Leasing Calculator
 
 This project implements a simple car leasing calculator using HTML, CSS, and JavaScript. The calculator allows users to input details such as car type (new or used), car value, lease period, and down payment percentage. It then calculates and displays leasing costs, monthly installment, and interest rate based on the user's inputs.
-Project Structure
+
+## Project Structure
 
 The project is organized into the following files:
 
@@ -13,7 +14,7 @@ The project is organized into the following files:
 
     README.md: This file. Provides an overview of the project, its structure, and brief instructions on how to use and understand the solution.
 
-Features
+## Features
 
     Supports calculation for both new and used cars;
     Dynamically updates results based on user input using JavaScript;
